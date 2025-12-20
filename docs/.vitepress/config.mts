@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
   title: "Racelookup Docs",
   description: "Official Docs of Racelookup",
   head: [
@@ -31,6 +32,11 @@ export default defineConfig({
         ]
       }
     ],
+
+    footer: {
+      message: 'Racelookup - Go Further with RaceLookup.',
+      copyright: 'Copyright © 2025 All rights are reserved.'
+    },
 
     socialLinks: [
       { icon: 'instagram', link: 'https://www.instagram.com/RaceLookup' },
