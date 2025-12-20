@@ -20,6 +20,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Team', link: '/teams' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
