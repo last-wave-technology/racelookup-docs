@@ -17,6 +17,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.jpg',
+    siteTitle: false,
 
     nav: [
       { text: 'Home', link: '/' },
@@ -43,6 +44,10 @@ export default defineConfig({
       { icon: 'instagram', link: 'https://www.instagram.com/RaceLookup' },
       { icon: 'facebook', link: 'https://www.facebook.com/racelookup/' },
       { icon: 'twitter', link: 'https://www.twitter.com/racelookup' }
-    ]
-  }
+    ],
+
+    // search: {
+    //   provider: 'local'
+    // },
+  },
 })
