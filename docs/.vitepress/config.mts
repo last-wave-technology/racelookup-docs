@@ -14,11 +14,6 @@ export default defineConfig({
   },
 
   head: [
-    // Preconnect to Google Fonts for faster font loading
-    ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
-    ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    // Load Poppins font (base) and JetBrains Mono (mono) with display=swap for faster rendering
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
@@ -60,8 +55,8 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://www.twitter.com/racelookup' }
     ],
 
-    // search: {
-    //   provider: 'local'
-    // },
+    search: {
+      provider: 'local'
+    },
   },
 })

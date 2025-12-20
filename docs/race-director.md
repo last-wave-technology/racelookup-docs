@@ -1,6 +1,5 @@
 ---
-layout: page
-markdownStyles: true
+layout: doc
 ---
 
 # Race Director Guide
