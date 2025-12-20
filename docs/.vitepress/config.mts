@@ -25,7 +25,10 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.jpg',
+    logo: {
+      src: '/logo.jpg',
+      alt: 'Racelookup Logo'
+    },
     siteTitle: false,
 
     nav: [
