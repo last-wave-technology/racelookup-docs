@@ -11,11 +11,11 @@ hero:
     alt: Racelookup Software Overview
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Runner
+      link: /runner
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Race Director
+      link: /race-director
 
 features:
     - title: RaceResults Integration

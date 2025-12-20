@@ -7,37 +7,35 @@ import {
   VPTeamPage,
   VPTeamPageTitle,
   VPTeamMembers
-} from 'vitepress/theme'
+} from 'vitepress/theme-without-fonts'
 
 const members = [
     {
-        avatar: 'http://racelookup.com/images/kurt.jpeg',
+        avatar: '/team/kurt-gross.png',
         name: 'Kurt Gross',
         title: 'Managing Director & Co-Founder',
         links: [
             { icon: 'github', link: 'https://github.com' },
             { icon: 'twitter', link: 'https://twitter.com' },
-            { icon: 'instagram', link: 'https://instagram.com' }
+            { icon: 'instagram', link: 'https://instagram.com' },
         ]
     },
     {
-        avatar: 'http://racelookup.com/images/dan1.jpeg',
+        avatar: '/team/dan-shabra.png',
         name: 'Dan Shabra',
         title: 'Managing Director & Co-Founder',
         links: [
-            { icon: 'github', link: 'https://github.com' },
-            { icon: 'twitter', link: 'https://twitter.com' },
-            { icon: 'instagram', link: 'https://instagram.com' }
+            { icon: 'twitter', link: 'https://x.com/dshabra' },
         ]
     },
     {
-        avatar: 'https://lh3.googleusercontent.com/a/ACg8ocIxt2l1bG8C4C7RY3KL6QVJqUOAiES_mbQPVbBCpN63awH74-Y2=s216-c-no',
+        avatar: '/team/muhammad-shahzad.webp',
         name: 'Muhammad Shahzad',
         title: 'CTO (Chief Technology Officer)',
         links: [
-            { icon: 'github', link: 'https://github.com' },
+            { icon: 'github', link: 'https://github.com/Muhammadshahzad11' },
             { icon: 'twitter', link: 'https://twitter.com' },
-            { icon: 'instagram', link: 'https://instagram.com' }
+            { icon: 'facebook', link: 'https://www.facebook.com/muhammad.shahzad.140433' },
         ]
     },
 ];
