@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Racelookup Docs"
-  text: "Official Docs of Racelookup"
-  tagline: My great project tagline
+  name: "Racelookup"
+  text: "Go Further with RaceLookup"
+  tagline: Find, run, race, live your next local or dream destination event!
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,14 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🔗
+    title: RaceResults Integration
+    details: Ready to go integration with timing company for your events.
+  - icon: 📅
+    title: Event Management
+    details: Manage your events listing and registrations using our Race Director Tools.
+  - icon: 🔒
+    title: Secure Payment
+    details: Pay at your trusted payment gateways.
 ---
 
