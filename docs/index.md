@@ -6,23 +6,25 @@ hero:
   name: "Racelookup"
   text: "Go Further with RaceLookup"
   tagline: Find, run, race, live your next local or dream destination event!
+  image:
+    src: /hero-section.webp
+    alt: Racelookup Software Overview
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Runner
+      link: /runner
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Race Director
+      link: /race-director
 
 features:
-  - icon: 🔗
-    title: RaceResults Integration
-    details: Ready to go integration with timing company for your events.
-  - icon: 📅
-    title: Event Management
-    details: Manage your events listing and registrations using our Race Director Tools.
-  - icon: 🔒
-    title: Secure Payment
-    details: Pay at your trusted payment gateways.
+    - title: RaceResults Integration
+      details: Ready to go integration with timing company for your events.
+
+    - title: Event Management
+      details: Manage your events listing and registrations using our Race Director Tools.
+
+    - title: Secure Payment
+      details: Pay at your trusted payment gateways.
 ---
 
