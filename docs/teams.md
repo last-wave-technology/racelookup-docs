@@ -31,7 +31,7 @@ const members = [
     {
         avatar: '/team/muhammad-shahzad.webp',
         name: 'Muhammad Shahzad',
-        title: 'CTO (Chief Technology Officer)',
+        title: 'Product Manager',
         links: [
             { icon: 'github', link: 'https://github.com/Muhammadshahzad11' },
             { icon: 'twitter', link: 'https://twitter.com' },
