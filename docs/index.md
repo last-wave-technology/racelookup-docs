@@ -6,9 +6,6 @@ hero:
   name: "Racelookup"
   text: "Go Further with RaceLookup"
   tagline: Find, run, race, live your next local or dream destination event!
-  image:
-    src: /hero-section.webp
-    alt: Racelookup Software Overview
   actions:
     - theme: brand
       text: Runner
@@ -27,4 +24,3 @@ features:
     - title: Secure Payment
       details: Pay at your trusted payment gateways.
 ---
-
