@@ -107,15 +107,17 @@ RaceLookup offers a modern registration experience designed for race professiona
 
 ## Integrated Timing & Results
 
-### RaceResult Integration
+### Timing Company Integration
 
-Sync seamlessly with RaceResult timing systems:
+Sync seamlessly with timing company systems:
 - Push athlete data automatically
 - Retrieve bib assignments
 - Publish live results within minutes
 - Keep athletes, timers, and spectators informed
 
 **No spreadsheets required** - everything integrates smoothly!
+
+📖 **[Learn More About Timing Company Integration →](/race-director/events/timing-companies)**
 
 ### Timing Services
 

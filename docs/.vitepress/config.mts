@@ -42,7 +42,20 @@ export default defineConfig({
         text: 'Audience',
         items: [
           { text: 'Runner', link: '/runner' },
-          { text: 'Race DIrector', link: '/race-director' }
+          { text: 'Race Director', link: '/race-director' }
+        ]
+      },
+      {
+        text: 'Race Director',
+        collapsed: false,
+        items: [
+          {
+            text: 'Events',
+            collapsed: false,
+            items: [
+              { text: 'Timing Companies', link: '/race-director/events/timing-companies' }
+            ]
+          }
         ]
       }
     ],
