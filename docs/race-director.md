@@ -117,7 +117,7 @@ Sync seamlessly with timing company systems:
 
 **No spreadsheets required** - everything integrates smoothly!
 
-📖 **[Learn More About Timing Company Integration →](/race-director/events/timing-companies)**
+📖 **[Learn More About Timing Company Integration →](/race-director/events/timing-companies/)**
 
 ### Timing Services
 
