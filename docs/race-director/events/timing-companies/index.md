@@ -74,14 +74,19 @@ Follow these exact steps to set up your timing company integration:
 
    ![No timing companies configured](/race-director/events/timing-companies/no-timing-companies-configured.png)
 
-   **If you already have timing companies:**
+2. Once you're on the **Add Timing Company** page, you'll see the configuration form with all the fields you need to fill in. This form allows you to set up your timing company integration settings.
+
+   ![Configure Timing Company Form](/race-director/events/timing-companies/add-timing-companies-configured-form.png)
+
+3. **If you already have timing companies:**
    - You'll see cards for each configured timing company
    - Click the **"Edit"** button on the card for the timing company you want to configure
+   - You'll be taken to the **Edit Timing Company** page where you'll see the configuration form
    
    ![Already Have Timing Companies](/race-director/events/timing-companies/already-have-timing-companies.png)
 
+   ![Configure Timing Company Form](/race-director/events/timing-companies/add-timing-companies-configured-form.png)
 
-2. You'll be taken to the **Edit Timing Company** page
    - **URL Pattern**: `https://racelookup.com/business/timing-company/{id}/edit`
 
 ### Step 4: Configure Timing Company Settings
