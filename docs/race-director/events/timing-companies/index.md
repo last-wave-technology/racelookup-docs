@@ -8,7 +8,7 @@ RaceLookup integrates with leading timing companies to streamline your race mana
 
 ## Available Integrations
 
-### RaceResult
+### [![RaceResult Logo](/race-director/events/timing-companies/raceresult-logo-red.svg)](https://www.raceresult.com/) [RaceResult](https://www.raceresult.com/)
 
 RaceResult is a comprehensive race timing and results platform. Our integration allows you to:
 
