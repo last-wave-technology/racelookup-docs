@@ -17,6 +17,7 @@ hero:
 features:
     - title: RaceResults Integration
       details: Ready to go integration with timing company for your events.
+      link: /race-director/events/timing-companies
 
     - title: Event Management
       details: Manage your events listing and registrations using our Race Director Tools.
