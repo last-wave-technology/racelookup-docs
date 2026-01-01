@@ -53,7 +53,8 @@ export default defineConfig({
             text: 'Events',
             collapsed: false,
             items: [
-              { text: 'Timing Companies', link: '/race-director/events/timing-companies' }
+              { text: 'Timing Companies', link: '/race-director/events/timing-companies' },
+              { text: 'RaceResult API Key Setup', link: '/race-director/events/timing-companies/race-result-setup' }
             ]
           }
         ]

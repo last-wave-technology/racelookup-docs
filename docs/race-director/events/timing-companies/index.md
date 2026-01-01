@@ -122,11 +122,7 @@ On the **Edit Timing Company** page, fill in the following fields:
 - **Field Type**: Password input (required for functionality)
 - **Placeholder**: "Enter your API key" (if new) or "Enter new API key to update (leave blank to keep current)" (if updating)
 - **Purpose**: Your RaceResult API key for authentication
-- **How to get it**: 
-  - Log in to your RaceResult account
-  - Navigate to API settings
-  - Generate or copy your API key
-  - See our guide: [Learn how to set up RaceResult API key](https://docs.racelookup.com/timing-companies/race-result-setup)
+- **How to get it**: See detailed step-by-step instructions: [How to Generate an API Key in Race Results](/race-director/events/timing-companies/race-result-setup)
 - **Security**: The field has an eye icon (👁️) to toggle visibility
 - **Note**: If updating an existing timing company, leave blank to keep the current API key
 
@@ -229,17 +225,17 @@ You can configure multiple timing company accounts:
   - Check your internet connection
   - Try refreshing the page and saving again
 
-### Getting Your RaceResult API Key
+## Need Help Generating Your API Key?
 
-If you need help obtaining your RaceResult API key:
+For detailed step-by-step instructions with screenshots on how to generate your RaceResult API key, see our dedicated guide:
 
-1. Log in to your RaceResult account
-2. Navigate to your account settings or API settings
-3. Look for "API Key" or "Web API" section
-4. Generate a new API key if you don't have one
-5. Copy the API key and paste it into the RaceLookup timing company configuration
+**[How to Generate an API Key in Race Results](/race-director/events/timing-companies/race-result-setup)**
 
-For detailed instructions, see: [Learn how to set up RaceResult API key](https://docs.racelookup.com/timing-companies/race-result-setup)
+This guide includes:
+- Step-by-step instructions with screenshots
+- How to navigate to the API Keys section
+- How to create and configure your API key
+- Important security notes
 
 ## Support
 
@@ -247,7 +243,7 @@ Need help with timing company integration?
 
 - 💬 [Contact Support](https://racelookup.com/contact)
 - 📚 [Race Director Guide](/race-director)
-- 📖 [RaceResult Setup Guide](https://docs.racelookup.com/timing-companies/race-result-setup)
+- 📖 [RaceResult API Key Setup Guide](/race-director/events/timing-companies/race-result-setup)
 
 ---
 
