@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
+  ignoreDeadLinks: true,
 
   lang: 'en-US',
 

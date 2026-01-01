@@ -73,7 +73,7 @@ After generating your API key:
 
 1. Copy the API key to a secure location
 2. Return to your RaceLookup account
-3. Navigate to [Timing Companies configuration](/race-director/events/timing-companies)
+3. Navigate to [Timing Companies configuration](./index)
 4. Paste the API key into the API Key field
 5. Save your configuration
 
@@ -83,9 +83,9 @@ Need additional help?
 
 - 💬 [Contact Support](https://racelookup.com/contact)
 - 📚 [Race Director Guide](/race-director)
-- 📖 [Timing Companies Integration Guide](/race-director/events/timing-companies)
+- 📖 [Timing Companies Integration Guide](./index)
 
 ---
 
-**Ready to configure?** [Go to Timing Companies Setup](/race-director/events/timing-companies)
+**Ready to configure?** [Go to Timing Companies Setup](./index)
 
