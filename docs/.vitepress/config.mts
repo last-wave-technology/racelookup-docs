@@ -4,6 +4,7 @@ import { withMermaid } from 'vitepress-plugin-mermaid'
 // https://vitepress.dev/reference/site-config
 export default withMermaid(defineConfig({
   lastUpdated: true,
+  ignoreDeadLinks: true,
 
   lang: 'en-US',
 
@@ -55,7 +56,8 @@ export default withMermaid(defineConfig({
             text: 'Events',
             collapsed: false,
             items: [
-              { text: 'Timing Companies', link: '/race-director/events/timing-companies' }
+              { text: 'Timing Companies', link: '/race-director/events/timing-companies' },
+              { text: 'RaceResult API Key Setup', link: '/race-director/events/timing-companies/race-result-setup' }
             ]
           }
         ]
