@@ -1,7 +1,10 @@
 import DefaultTheme from 'vitepress/theme'
 import { onMounted } from 'vue'
-import panzoom from '@panzoom/panzoom'
+import * as panzoomModule from '@panzoom/panzoom'
 import './mermaid-zoom.css'
+
+// Handle ESM default export compatibility
+const panzoom = panzoomModule.default || panzoomModule
 
 export default {
   extends: DefaultTheme,
