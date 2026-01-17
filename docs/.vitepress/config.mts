@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid(defineConfig({
   lastUpdated: true,
 
   lang: 'en-US',
@@ -33,6 +34,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Events', link: '/events' },
       { text: 'Team', link: '/teams' },
       { text: 'Audience', link: '/runner' }
     ],
@@ -80,4 +82,4 @@ export default defineConfig({
       minify: 'terser',
     },
   },
-})
+}))

@@ -22,7 +22,10 @@
   "homepage": "https://github.com/shahsawoodshinwari/racelookup-docs#readme",
   "description": "",
   "devDependencies": {
+    "@panzoom/panzoom": "^4.6.1",
+    "mermaid": "^11.12.2",
     "terser": "^5.44.1",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
   }
 }
